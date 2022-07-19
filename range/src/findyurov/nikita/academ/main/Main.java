@@ -1,4 +1,4 @@
-package main;
+package findyurov.nikita.academ.main;
 
 import java.util.Scanner;
 

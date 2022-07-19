@@ -1,4 +1,4 @@
-package main;
+package findyurov.nikita.academ.main;
 
 public class Range {
     private double from;
