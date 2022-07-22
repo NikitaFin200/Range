@@ -1,4 +1,6 @@
-package findyurov.nikita.academ.main;
+package range.main;
+
+import range.class_range.Range;
 
 import java.util.Scanner;
 
