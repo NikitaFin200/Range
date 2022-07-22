@@ -1,6 +1,6 @@
-package academ.findyurov.range.main;
+package academ.findyurov.range.main_range;
 
-import academ.findyurov.range.class_range.Range;
+import academ.findyurov.range.range.class_range.Range;
 
 import java.util.Scanner;
 
