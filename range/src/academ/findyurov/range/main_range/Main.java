@@ -8,7 +8,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        Range range = new Range(10, 30);
+        Range range = new Range(15, 30);
 
         System.out.println("Getter implementation.");
         System.out.println(range.getFrom());                         // реализация Геттера
